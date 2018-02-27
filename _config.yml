@@ -89,11 +89,14 @@ archive: 1
 category: 1
 tag: 1
 
-# Extensions
-## Plugins: http://hexo.io/plugins/
-#plugin:
-#  hexo-generator-feed
+#RSS 订阅插件
+Plugins:
+- hexo-generator-feed
 feed:
   type: atom
   path: atom.xml
   limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
