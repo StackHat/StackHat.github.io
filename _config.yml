@@ -78,7 +78,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/StackHat/StackHat.github.io.git
+  repository: git@github.com:StackHat/StackHat.github.io.git
   branch: master
 
 # Archives 默认值为2，这里都修改为1，相应页面就只会列出标题，而非全文
