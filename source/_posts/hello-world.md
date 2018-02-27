@@ -1,5 +1,7 @@
 ---
 title: Hello World
+tag: [测试, Test]
+category: 测试
 ---
 欢迎来到我的[博客](/)，这是我的第一篇文章。
 
