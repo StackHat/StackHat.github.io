@@ -91,5 +91,9 @@ tag: 1
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
-plugins:
-  hexo-generate-feed
+#plugin:
+#  hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
