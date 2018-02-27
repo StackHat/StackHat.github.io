@@ -37,25 +37,25 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
+    <title>Cmd Markdown 示例</title>
     <link href="https://stackhat.github.io/2018/02/27/hello-world/"/>
     <id>https://stackhat.github.io/2018/02/27/hello-world/</id>
     <published>2018-02-27T02:00:30.281Z</published>
-    <updated>2018-02-27T07:33:48.602Z</updated>
+    <updated>2018-02-27T12:41:03.396Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;欢迎来到我的&lt;a href=&quot;/&quot;&gt;博客&lt;/a&gt;，这是我的第一篇文章。&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;
+      &lt;h1 id=&quot;欢迎使用-Cmd-Markdown-编辑阅读器&quot;&gt;&lt;a href=&quot;#欢迎使用-Cmd-Markdown-编辑阅读器&quot; class=&quot;headerlink&quot; title=&quot;欢迎使用 Cmd Markdown 编辑阅读器&quot;&gt;&lt;/a&gt;欢迎使用 Cmd Markdown 编辑阅读器&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;我们理解您需要更便捷更高效的工具记录思想，整理笔记、知识，并将其中承载的价值传播给他人，&lt;strong&gt;Cmd Markdown&lt;/strong&gt; 是我们给出的答案 —— 我们为记录思想和分享知识提供更专业的工具。 您可以使用 Cmd Markdown：&lt;br&gt;
     
     </summary>
     
-      <category term="测试" scheme="https://stackhat.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+      <category term="Markdown" scheme="https://stackhat.github.io/categories/Markdown/"/>
     
     
-      <category term="测试" scheme="https://stackhat.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="Markdown" scheme="https://stackhat.github.io/tags/Markdown/"/>
     
-      <category term="Test" scheme="https://stackhat.github.io/tags/Test/"/>
+      <category term="示例" scheme="https://stackhat.github.io/tags/%E7%A4%BA%E4%BE%8B/"/>
     
   </entry>
   
