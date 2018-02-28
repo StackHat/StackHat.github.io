@@ -429,6 +429,7 @@ gitment:
 #jiathis:
   ##uid: Get this uid from http://www.jiathis.com/
 #add_this_id:
+jiathis: true
 
 # Share
 #duoshuo_share: true
