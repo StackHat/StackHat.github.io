@@ -385,7 +385,7 @@ valine:
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: true # Verification code
   placeholder: Say something # comment box placeholder
-  avatar: mm # gravatar style
+  avatar: identicon # gravatar style
   guest_info: nick,mail,link # custom comment header
   pageSize: 10 # pagination size
 
