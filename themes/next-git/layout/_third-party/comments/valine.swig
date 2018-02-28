@@ -18,6 +18,7 @@
         avatar:'{{ theme.valine.avatar }}',
         guest_info:guest,
         pageSize:'{{ theme.valine.pageSize }}' || 10,
+        lang:'zh-cn',
     });
   </script>
 {% endif %}
