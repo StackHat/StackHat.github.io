@@ -21,7 +21,7 @@
   margin: auto;
 }
 .need-share-button_dropdown {
-  position: absolute;
+  /*position: absolute;*/
   z-index: 10;
 
   visibility: hidden;
